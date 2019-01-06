@@ -60,6 +60,8 @@ typings/
 # next.js build output
 .next
 
-#MacOS
+# MacOS
 .DS_Store
 
+#For prod build
+build/
