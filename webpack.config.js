@@ -1,4 +1,4 @@
-equire('@babel/register');
+require('@babel/register');
 const webpackMerge = require('webpack-merge');
 
 const common = require('./config/webpack/webpack.common.babel');
